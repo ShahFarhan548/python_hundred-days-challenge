@@ -6,9 +6,6 @@ var ln = Math.LN2;
 console.log(ln);
 var a = 3+pi *(e +ln);
 console.log (a);
-//this is just to test pr
-console.log('hello world')
-console.log('new branch')
 b= Math.ceil(a);
 c=Math.floor(a);
 d= Math.round(a);
