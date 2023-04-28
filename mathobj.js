@@ -7,6 +7,7 @@ console.log(ln);
 var a = 3+pi *(e +ln);
 console.log (a);
 //this is just to test pr
+console.log('hello world')
 b= Math.ceil(a);
 c=Math.floor(a);
 d= Math.round(a);
