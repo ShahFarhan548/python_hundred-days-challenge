@@ -1,3 +1,6 @@
+// this tutorial is all about the strings 
+// in this main operations on strings are performed
+
 var greet = 'hello';
 var next = 'world';
 // concatenation of the variables
