@@ -1,3 +1,4 @@
+
 var a = Math.random();
 //creates a random no between 0 and 0 and 0.99
 console.log (a);
