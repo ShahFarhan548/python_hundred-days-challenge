@@ -1,0 +1,23 @@
+{
+  "name": "git-repo",
+  "version": "1.0.0",
+  "main": "Arrowfuct2.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShahFarhan548/java-script.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShahFarhan548/java-script/issues"
+  },
+  "homepage": "https://github.com/ShahFarhan548/java-script#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
