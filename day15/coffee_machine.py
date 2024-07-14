@@ -65,6 +65,7 @@ def is_transaction_successful(money_received, drink_cost):
 
 
 def make_cofee(drink):
+    # last step to make the coffee from the availible ingredients
     for item in drink:
         resources[item] -= drink[item]
     return
