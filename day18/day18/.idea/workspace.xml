@@ -17,9 +17,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2jdSwh6tsq7QGEwNKj4a8Wu5Tdg" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -29,7 +29,7 @@
   "keyToString": {
     "Python.start.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "07bce483",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Farhan/Python100days/day18/day18/.venv/start",
     "two.files.diff.last.used.file": "C:/Farhan/Python100days/day18/day18/.venv/start"
   }
